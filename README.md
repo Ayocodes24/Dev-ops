@@ -1,8 +1,5 @@
 # MyProjectApp - Step by step End-to-End Deployment process
 
-## Introduction
-The guide in the video is your first help. Again, the Terraform Scripts and manifest files have been provided in this repository. Feel free to edit as you desire.
-
 ## 1. Start a Terraform Server on AWS
 
 ## 2. Install Terraform as root user
@@ -218,10 +215,3 @@ vi myapp-service.yml
 ## 19. Intergrate the CI and the CD Jobs on Jenkins
 
 ## 20. Deploy/Test the Application
-
-## Happy you got to this point. Hope it worked!
-
-# Congratulations!
-
-# Merciboi Systems Solutions
-# info@merciboi.com
